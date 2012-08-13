@@ -1,4 +1,4 @@
 PhoneGap
 ========
 
-利用PhoneGap创建自己的App应用，并可以使用ApkBuilder打包工具打包自己的网站
+利用PhoneGap创建自己的App应用，并可以使用ApkBuilder打包工具打包自己的网站，注意下载后的文件放在简单目录下，例如D:/ （建议修改下载后文件名为简单文件名）
